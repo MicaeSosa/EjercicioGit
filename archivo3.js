@@ -1,0 +1,1 @@
+let variable =0;// resolucion de pelea
